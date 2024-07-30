@@ -6,3 +6,5 @@ This is a locally stored password manager that is written in C. Some basic and i
     - Passwords that include letters, numbers and symbols
 
 If you have any ideas please DM me.
+
+If there are any tests need to be made do so in the testing directory.
